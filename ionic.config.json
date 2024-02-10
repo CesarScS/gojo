@@ -1,0 +1,7 @@
+{
+  "name": "app-gojo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
